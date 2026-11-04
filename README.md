@@ -1,4 +1,4 @@
-# SolarBrasil CRM
+# Solaris CRM
 
 Projeto de portfólio: implantação de Salesforce para uma empresa
 fictícia de energia solar.
@@ -7,7 +7,7 @@ fictícia de energia solar.
 Em desenvolvimento...
 
 ## Contexto
-Solaria é uma empresa de energia solar fictícia criada por mim com o objetivo de praticar e aperfeiçoar minhas habilidades utilizando ferramentas e estratégias de um CRM Salesforce.
+Solaris é uma empresa de energia solar fictícia criada por mim com o objetivo de praticar e aperfeiçoar minhas habilidades utilizando ferramentas e estratégias de um CRM Salesforce.
 
 ## Roadmap
 - [ ] Levantamento de requisitos
