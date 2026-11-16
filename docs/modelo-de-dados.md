@@ -23,10 +23,6 @@ Documento de modelagem da implantação Salesforce para a Solaris, empresa fict�
 
 Quase tudo que a Solaris precisa já existe no Sales Cloud. A visita técnica é o único conceito que não tem equivalente padrão: possui ciclo de vida próprio (agendada, concluída, cancelada), dono diferente (o técnico) e dados específicos do local. Por isso virou objeto.
 
-### Por que não usar Person Accounts?
-
-Clientes residenciais poderiam ser modelados como Person Accounts, mas esse recurso é irreversível depois de ativado e adiciona complexidade a layouts, relatórios e permissões. Optou-se pelo modelo padrão (Account + Contact), com o campo **Tipo de Cliente** para diferenciar residencial e comercial.
-
 ---
 
 ## 2. Diagrama entidade-relacionamento
