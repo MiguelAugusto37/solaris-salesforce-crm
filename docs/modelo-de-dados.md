@@ -93,8 +93,8 @@ Convenção: rótulos em português; API names sem acento e com sufixo `__c`.
 | Data da Visita | `Data_Visita__c` | Data/Hora | RD-07 |
 | Status | `Status__c` | Picklist | RD-07 |
 | Sombreamento | `Sombreamento__c` | Picklist | RD-08 |
-| Condição do Telhado | `Condicao_Telhado__c` | Picklist | RD-08 |
-| Instalação Elétrica Adequada | `Instalacao_Eletrica_Adequada__c` | Checkbox | RD-08 |
+| Condição do Telhado | `Condicao_do_Telhado__c` | Picklist | RD-08 |
+| Instalação Elétrica | `Instalacao_Eletrica__c` | Checkbox | RD-08 |
 | Área Disponível (m²) | `Area_Disponivel_m2__c` | Número (6,1) | RD-08 |
 | Observações | `Observacoes__c` | Texto longo | RD-08 |
 
