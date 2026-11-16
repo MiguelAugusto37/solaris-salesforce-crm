@@ -40,8 +40,6 @@ erDiagram
     PRICEBOOK ||--o{ PRODUCT : "lista preços de"
 ```
 
-> Após a configuração, substituir ou complementar este diagrama com um print do Schema Builder da org (pasta `screenshots/`).
-
 ---
 
 ## 3. Campos por objeto
