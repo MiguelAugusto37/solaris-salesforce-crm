@@ -152,7 +152,7 @@ Os valores são ilustrativos e foram dimensionados para um ticket médio próxim
 
 ### Lookup em vez de Master-Detail entre Visita Técnica e Oportunidade
 
-Em um relacionamento Master-Detail, o acesso ao registro filho é herdado do pai. O requisito RA-03 determina que o técnico veja as visitas **sem** acessar valores e descontos da oportunidade. Com Lookup, a Visita Técnica tem controle de acesso independente. O ponto negativo é que o Lookup não oferece roll-up summary nativo, mas esse recurso não é necessário aqui.
+Em um relacionamento Master-Detail, o acesso ao registro filho é herdado do pai. O requisito RA-03 determina que o técnico veja as visitas **sem** acessar valores e descontos da oportunidade. Com Lookup, a Visita Técnica tem controle de acesso independente. O ponto negativo é que o Lookup não oferece roll-up summary nativo, mas não achei que esse recurso seria necessário aqui.
 
 ### Campos duplicados em Lead e Opportunity
 
@@ -165,10 +165,6 @@ Reaproveitar o campo padrão mantém compatibilidade com relatórios e dashboard
 ### Técnico como Owner da visita
 
 Usar o proprietário do registro dispensa um campo de usuário extra e simplifica as regras de compartilhamento e as listas "Minhas visitas".
-
-### Record Types (opcional)
-
-Na Opportunity, dois Record Types, **Residencial** e **Comercial**, podem ter picklists e layouts distintos. É opcional e fica como evolução se o projeto precisar demonstrar o recurso.
 
 ---
 
